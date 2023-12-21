@@ -1,0 +1,9 @@
+h1 {
+    color: pink;
+    border-radius: 4px;
+}
+button {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
